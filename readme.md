@@ -25,4 +25,4 @@ object ExampleStatic : TargetClass() {
 要点：定义为`object`类，方法带上`JvmStatic`注解，方法名后添加**一个下划线**（否则重复声明无法通过编译）
 
 ### 更新日志
-- 自己看commit历史
+- 自己看commit历史。
